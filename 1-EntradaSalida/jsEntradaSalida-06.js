@@ -10,7 +10,6 @@ function sumar() {
 	
 	
 	num1 = parseInt(document.getElementById("txtIdNumeroUno").value);
-
 	num2 = parseInt(document.getElementById("txtIdNumeroDos").value);
 	
 	
